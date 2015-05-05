@@ -1,0 +1,27 @@
+config webfilter ftgd-local-rating 
+edit ﻿1
+set rating 2
+next 
+edit 2
+set rating 2
+next 
+edit 3
+set rating 2
+next 
+edit 4
+set rating 2
+next 
+edit 5
+set rating 2
+next 
+edit 6
+set rating 2
+next 
+edit 7
+set rating 2
+next 
+edit 8
+set rating 2
+next 
+edit 9set rating 2
+next 
